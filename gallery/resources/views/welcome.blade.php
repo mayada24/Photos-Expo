@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Gallery</title>
+        <title>Photos Expo</title>
         
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
         <!-- Fonts -->
@@ -65,7 +65,7 @@
         <div class="banner-area">
             <div class="content-area">
                 <div class="content">
-                    <h1>Photos Gallery<h1>
+                    <h1>Photos Expo<h1>
                         <p>Photos by creative photographers</P>
                         <button type="button" class="btn btn-outline-primary">Click here</button>
                 </div>

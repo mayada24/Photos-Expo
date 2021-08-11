@@ -4,18 +4,23 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Gallery</title>
+        <title>Photos Expo</title>
         
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
         <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+        <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
         <style>
             body{
-                font-family: 'Roboto', sans-serif;
+                font-family: 'Nunito', sans-serif;
             }
 
             h1{
-                text-align: center
+                text-align: center;
+                margin-top: 2rem;
+                margin-bottom:2rem;
+                font-size: 2em;
             }
         </style>
         @livewireStyles
