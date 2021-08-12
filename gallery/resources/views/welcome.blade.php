@@ -67,7 +67,7 @@
                 <div class="content">
                     <h1>Photos Expo<h1>
                         <p>Photos by creative photographers</P>
-                        <button type="button" class="btn btn-outline-primary">Click here</button>
+                        <button type="button" class="btn btn-outline-primary" > Click here</button>
                 </div>
             </div>
         </div>
