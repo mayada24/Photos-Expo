@@ -67,7 +67,7 @@
                 <div class="content">
                     <h1>Photos Expo<h1>
                         <p>Photos by creative photographers</P>
-                        <button type="button" class="btn btn-outline-primary" > Click here</button>
+                        <button onclick="location.href = 'http://127.0.0.1:8000/photos';" type="button" class="btn btn-outline-primary" > Click here</button>
                 </div>
             </div>
         </div>
